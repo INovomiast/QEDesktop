@@ -8,3 +8,8 @@
 [![Contributions](https://img.shields.io/badge/Contributions-Press_Here!-yellow.svg?maxAge=259200)](https://ivan-novomiast.github.io/QEDesktop/contribucion/)
 
 <img src="resources/images/QEDesktop Whide logo.png" alt="logo_v1_wide_design_png"/>
+
+**QEDesktop** es la aplicación de escritorio [*No Oficial*] del servicio web para escuelas <a href="https://qualitaseducativa.com/">QualitasEducativa</a>, programado usando la libreria de JavaScript: @electron y el propio sitio web de <a href="https://qualitaseducativa.com/">QualitasEducativa</a>.
+
+## Descargas
+Las descargas de QEDesktop estan disponibles en el sitio web: https://
