@@ -7,4 +7,4 @@
 [![Documentation](https://img.shields.io/badge/Docs-Press_Here!-purple.svg?maxAge=259200)](https://ivan-novomiast.github.io/QEDesktop/documentacion/)
 [![Contributions](https://img.shields.io/badge/Contributions-Press_Here!-yellow.svg?maxAge=259200)](https://ivan-novomiast.github.io/QEDesktop/contribucion/)
 
-<img src="" alt=""/>
+<img src="resources/images/QEDesktop Whide logo.png" alt="logo_v1_wide_design_png"/>
