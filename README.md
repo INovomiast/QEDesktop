@@ -9,6 +9,7 @@
 
 <img src="resources/images/QEDesktop Whide logo.png" alt="logo_v1_wide_design_png"/>
 
+
 **QEDesktop** es la aplicación de escritorio [*No Oficial*] del servicio web para escuelas <a href="https://qualitaseducativa.com/">QualitasEducativa</a>, programado usando la libreria de JavaScript: <a href="https://electronjs.org/"><b>Electron</b></a>.y el propio sitio web de <a href="https://qualitaseducativa.com/">QualitasEducativa</a>.
 
 ## Descargas
@@ -28,4 +29,12 @@ Las descargas de QEDesktop estan disponibles en el sitio web: https://ivan-novom
 </table>
 
 ## Documentación
-QEDesktop tiene una documentación la cual podras encontrar pulsando <a href="https://ivan-novomiast.github.io/QEDesktop/documentacion/">Aqui</a>!
+QEDesktop tiene una documentación la cual podras encontrar pulsando <a href="https://ivan-novomiast.github.io/QEDesktop/documentacion/">Aqui</a>! en la cual podras aprender a usar la API **TODAVIA EN DESARROLLO** entre otras cosas para el uso y automatización de QEDesktop a parte de otros puntos como plugins y demas.
+
+## Plugins y Modulos
+QEDesktop disponemos de la implementación de todo tipo de plugins y modulos, los cuales pueden estar escritos en **Python con Flask y ** o **HTML, Css y Javascript**, aqui te dejo una plantilla para que puedas desarrollar tu plugin.
+
+**<a href="https://">Descargar Plantilla</a>**
+
+**Empezar a Usarlo**
+Ya tocaba enseñar como instalar
