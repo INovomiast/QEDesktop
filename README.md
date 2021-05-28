@@ -36,5 +36,7 @@ QEDesktop disponemos de la implementación de todo tipo de plugins y modulos, lo
 
 **<a href="https://">Descargar Plantilla</a>**
 
-**Empezar a Usarlo**
-Ya tocaba enseñar como instalar
+## **Empezar a Usarlo**
+Como empezar a usar QEDesktop... es la cosa más sencilla del mundo, ya que estamos cargando la página original de Qualitas y asi, solo añadiendo algunos complementos podreis sacarle más partido a Qualitas... Tambien es más comodo tenerlo en Versión de Escritorio.
+
+Ahora para poder Instalar la app de QEDesktop, solo tendreis que ir a la tabla de descargas, darle a descarga y esta te redireccionara a la página web, asi con su respectiva versión... solo acepta los terminos y ahi tendras la descarga de este... se te descargara un ZIP y una vez descomprimido abre el archivo **.exe** y sigue los pasos que se te indican, una vez hecho eso, tendras instalado QEDesktop y ya lo podras usar.
