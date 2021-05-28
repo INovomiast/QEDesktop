@@ -34,7 +34,7 @@ QEDesktop tiene una documentación la cual podras encontrar pulsando <a href="ht
 ## Plugins y Modulos
 QEDesktop disponemos de la implementación de todo tipo de plugins y modulos, los cuales pueden estar escritos en **Python con Flask y ** o **HTML, Css y Javascript**, aqui te dejo una plantilla para que puedas desarrollar tu plugin.
 
-**<a href="https://github.com/Ivan-Novomiast/QEDesktop/blob/main/README.md" download="true">Descargar Plantilla</a>**
+**<a href="https://ivan-novomiast.github.io/QEDesktop/comunidad/modulos" download="true">Descargar Plantilla</a>**
 
 ## **Empezar a Usarlo**
 Como empezar a usar QEDesktop... es la cosa más sencilla del mundo, ya que estamos cargando la página original de Qualitas y asi, solo añadiendo algunos complementos podreis sacarle más partido a Qualitas... Tambien es más comodo tenerlo en Versión de Escritorio.
